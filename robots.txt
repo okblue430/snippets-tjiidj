@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://okblue430.github.io/snippets-tjiidj/sitemap.xml
